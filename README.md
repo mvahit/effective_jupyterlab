@@ -1,8 +1,8 @@
 # Using JupyterLab Effectively (JupyterLab’ı etkin bir şekilde kullanma)
 
-Merhabalar bu notebook JupyterLab kullanımına yeni başlayanlar için önemli olabilecek bazı bilgileri barındıramaktadır. 
+Merhabalar, bu notebook JupyterLab kullanımına yeni başlayanlar için önemli olabilecek bazı bilgileri barındıramaktadır. 
 
-Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan konulardan bazı dikkate değer olanları:
+Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan konulardan önemli ve öne çıkanlar:
 
 - İçindekiler Bölümü Oluşturmak
 - "Variable Explorer" Eklentisi Eklemek
