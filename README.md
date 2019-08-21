@@ -1,5 +1,7 @@
 # Using JupyterLab Effectively (JupyterLab’ı etkin bir şekilde kullanma)
 
+# Giriş
+
 Merhabalar, bu notebook JupyterLab kullanımına yeni başlayanlar için önemli olabilecek bazı bilgileri barındıramaktadır. 
 
 Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan konulardan önemli ve öne çıkanlar:
