@@ -14,7 +14,7 @@ Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan kon
 - Resim ekleme, ortalama gibi ayarlar
 
 
-Tüm içeriğe Github üzerinden erişmek için ve incelemek için aşağıdaki görselde işaretlenen "effective_jupyterlab.ipynb" dosyasını çalıştırınız:
+Tüm içeriğe Github üzerinden erişmek ve incelemek için aşağıdaki görselde işaretlenen "effective_jupyterlab.ipynb" dosyasını çalıştırınız:
 
 ![Start](start.png)
 
