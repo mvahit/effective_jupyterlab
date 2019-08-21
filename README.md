@@ -1,6 +1,8 @@
 # Using JupyterLab Effectively (JupyterLab’ı etkin bir şekilde kullanma)
 
-Ele alınan konulardan en önemli olanları aşağıdaki listelenmiştir:
+Merhabalar bu notebook JupyterLab kullanımına yeni başlayanlar için önemli olabilecek bazı bilgileri barındıramaktadır. 
+
+Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan konulardan bazı dikkate değer olanları:
 
 - İçindekiler Bölümü Oluşturmak
 - "Variable Explorer" Eklentisi Eklemek
@@ -8,6 +10,8 @@ Ele alınan konulardan en önemli olanları aşağıdaki listelenmiştir:
 - Decimal Ayarlaması (virgülden sonra görüntülenecek rakam miktarı)
 - Görsellerin kalitesini maksimum yapmak
 - Resim ekleme, ortalama gibi ayarlar
+
+# Kendi Çalışmalarınızda Kullanmak için
 
 Bu çalışma dosyasında yer alan püf noktalarını etkili bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
 
