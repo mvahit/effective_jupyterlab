@@ -19,18 +19,16 @@ Tüm içeriğe Github üzerinden erişmek ve incelemek için aşağıdaki görse
 ![Start](start.png)
 
 
-## Kendi Çalışmalarınızda Kullanmak için
+## Kendi Bilgisayarınıza İndirip Kullanmak için
 
-Bu çalışma dosyasında yer alan bilgileri doğru bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
+1. Bu çalışma dosyasında yer alan bilgileri doğru bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
 
 ![Download](download.png)
 
 
-İndirmiş olduğunuz dosyayı zipten çıkarınız ve JupyterLab'ı açınız. Sonrasında JupyterLab üzerinden indirmiş olduğunuz dosyanın dizinine giderek "effective_jupyterlab.ipynb" dosyasını açınız. 
+2. İndirmiş olduğunuz dosyayı zipten çıkarınız ve JupyterLab'ı açınız. 
 
-Açma işleminden sonra tüm markdown kodlarını ve diğer kodları daha kolay bir şekilde uygulayabileceksiniz.
+3. Sonrasında JupyterLab üzerinden indirmiş olduğunuz dosyanın dizinine giderek "effective_jupyterlab.ipynb" dosyasını açınız. 
 
-
-
-
+4. Açma işleminden sonra tüm markdown kodlarını ve diğer kodları daha kolay bir şekilde uygulayabileceksiniz.
 
