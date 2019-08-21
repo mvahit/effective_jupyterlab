@@ -15,7 +15,7 @@ Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan kon
 
 ## Kendi Çalışmalarınızda Kullanmak için
 
-Bu çalışma dosyasında yer alan püf noktalarını etkili bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
+Bu çalışma dosyasında yer alan bilgileri doğru bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
 
 ![Download](download.png)
 
