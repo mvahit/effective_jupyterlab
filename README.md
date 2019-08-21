@@ -13,6 +13,12 @@ Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan kon
 - Görsellerin kalitesini maksimum yapmak
 - Resim ekleme, ortalama gibi ayarlar
 
+
+Tüm içeriğe Github üzerinden erişmek için ve incelemek için aşağıdaki görselde işaretlenen "effective_jupyterlab.ipynb" dosyasını çalıştırınız:
+
+![Start](start.png)
+
+
 ## Kendi Çalışmalarınızda Kullanmak için
 
 Bu çalışma dosyasında yer alan bilgileri doğru bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
