@@ -5,7 +5,7 @@ Bu çalışma dosyasında yer alan püf noktalarını etkili bir şekilde uygula
 ![Download](download.png)
 
 
-İndirmiş olduğunuz dosyayı zipten çıkarınız ve JupyterLab ya da Jupyter Notebook'unu açtıktan sonra indirmiş olduğunuz bu dizine giderek .... dosyasını açınız. 
+İndirmiş olduğunuz dosyayı zipten çıkarınız ve JupyterLab ya da Jupyter Notebook'unuzu açtıktan sonra indirmiş olduğunuz bu dizine giderek .... dosyasını açınız. 
 
 Açma işleminden sonra tüm markdown kodları ve diğer kodlar daha kolay bir şekilde uygulanabilecektir.
 
