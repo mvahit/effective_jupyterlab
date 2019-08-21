@@ -22,7 +22,9 @@ Bu çalışma dosyasında yer alan bilgileri doğru bir şekilde uygulayabilmek 
 
 İndirmiş olduğunuz dosyayı zipten çıkarınız ve JupyterLab'ı açınız. Sonrasında JupyterLab üzerinden indirmiş olduğunuz dosyanın dizinine giderek "effective_jupyterlab.ipynb" dosyasını açınız. 
 
-Açma işleminden sonra tüm markdown kodları ve diğer kodlar daha kolay bir şekilde uygulayabileceksiniz.
+Açma işleminden sonra tüm markdown kodlarını ve diğer kodları daha kolay bir şekilde uygulayabileceksiniz.
+
+
 
 
 
