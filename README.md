@@ -20,9 +20,9 @@ Bu çalışma dosyasında yer alan püf noktalarını etkili bir şekilde uygula
 ![Download](download.png)
 
 
-İndirmiş olduğunuz dosyayı zipten çıkarınız ve JupyterLab ya da Jupyter Notebook'unuzu açınız. Sonra indirmiş olduğunuz dosyanın dizinine giderek "effective_jupyterlab.ipynb" dosyasını açınız. 
+İndirmiş olduğunuz dosyayı zipten çıkarınız ve JupyterLab'ı açınız. Sonrasında JupyterLab üzerinden indirmiş olduğunuz dosyanın dizinine giderek "effective_jupyterlab.ipynb" dosyasını açınız. 
 
-Açma işleminden sonra tüm markdown kodları ve diğer kodlar daha kolay bir şekilde uygulanabilecektir.
+Açma işleminden sonra tüm markdown kodları ve diğer kodlar daha kolay bir şekilde uygulayabileceksiniz.
 
 
 
