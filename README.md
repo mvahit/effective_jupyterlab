@@ -48,7 +48,7 @@ Numara ile Listeleme:
 
 * Link Eklemek: [tıkla](https://www.veribilimi.co)
 
-* Kod ifade etmek için: `sum()`
+* Kod ifade etmek için markdown bölümünde "`sum()`" ifadesi kullanılır ve çıktısı şu şekilde olur: `sum()`
 
 * Kod bloğu ya da girintili ifade için:
 
