@@ -1,5 +1,14 @@
 # Using JupyterLab Effectively (JupyterLab’ı etkin bir şekilde kullanma)
 
+Ele alınan konulardan en önemli olanları aşağıdaki listelenmiştir:
+
+- İçindekiler Bölümü Oluşturmak
+- "Variable Explorer" Eklentisi Eklemek
+- Notebook'un Başlangıç Dizinin Ayarlanması
+- Decimal Ayarlaması (virgülden sonra görüntülenecek rakam miktarı)
+- Görsellerin kalitesini maksimum yapmak
+- Resim ekleme, ortalama gibi ayarlar
+
 Bu çalışma dosyasında yer alan püf noktalarını etkili bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
 
 ![Download](download.png)
@@ -10,8 +19,4 @@ Bu çalışma dosyasında yer alan püf noktalarını etkili bir şekilde uygula
 Açma işleminden sonra tüm markdown kodları ve diğer kodlar daha kolay bir şekilde uygulanabilecektir.
 
 
-
-Ele alınan konular:
-
-* 
 
