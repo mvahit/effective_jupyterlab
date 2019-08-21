@@ -2,7 +2,7 @@
 
 ## Giriş
 
-Merhabalar, bu notebook JupyterLab kullanımına yeni başlayanlar için önemli olabilecek bazı bilgileri barındıramaktadır. 
+Merhabalar, bu notlar JupyterLab kullanımına yeni başlayanlar için önemli olabilecek bazı bilgileri içermektedir. 
 
 Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan konulardan önemli ve öne çıkanlar:
 
