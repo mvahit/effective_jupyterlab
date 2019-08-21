@@ -1,6 +1,6 @@
 # Using JupyterLab Effectively (JupyterLab’ı etkin bir şekilde kullanma)
 
-# Giriş
+## Giriş
 
 Merhabalar, bu notebook JupyterLab kullanımına yeni başlayanlar için önemli olabilecek bazı bilgileri barındıramaktadır. 
 
@@ -13,7 +13,7 @@ Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan kon
 - Görsellerin kalitesini maksimum yapmak
 - Resim ekleme, ortalama gibi ayarlar
 
-# Kendi Çalışmalarınızda Kullanmak için
+## Kendi Çalışmalarınızda Kullanmak için
 
 Bu çalışma dosyasında yer alan püf noktalarını etkili bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
 
