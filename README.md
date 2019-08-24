@@ -20,7 +20,6 @@ Tüm içeriğe Github üzerinden erişmek ve incelemek için aşağıdaki görse
 
 ![Start](start.png)
 
-Önemli not: Bazı kodlar Github'a atıldığında derlendiği için en verimli şekilde gözlemlemek adına bilgisayara indirerek incelenmesini öneririm.
 
 ## Kendi Bilgisayarınıza İndirip Kullanmak için
 
