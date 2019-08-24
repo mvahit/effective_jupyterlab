@@ -1,62 +1,36 @@
 # Using JupyterLab Effectively (JupyterLab’ı etkin bir şekilde kullanma)
 
-## 1. Kısayol Tuşları
+## Giriş
 
-Notebook verdiğimiz kısa yolları iki ayrı bileşen için ayrı ayrı algılar. Birisi hücreler için kullanacağımız kısa yol tuşları diğer hücrelerin dışında iken kullanacağımız kısayol tuşları. Örneğin hücre içinde bir şey kopyalayıp yapıştırmak istediğimizde bunu "ctrl + c", "ctrl + v" kombinasyonları ile yapabiliriz. Bu  işlemi hücre dışında hücrelere yönelik olarak yapmak istediğimizde "c" ve "v"duşlarına basmamız yeterli olacaktır. Dolayısıyla kısayol tuşlarını öğrenirken de buna göre öğrenmekte fayda var.
+Merhabalar, bu notlar JupyterLab kullanımına yeni başlayanlar için önemli olabilecek bazı bilgileri içermektedir. 
 
-- Yukarı aşağı oklar ile hücreler arasında gezinilir.
+Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan konulardan önemli ve öne çıkanlar:
 
-- A: satırın üstüne boş satır ekler.
-
-- B: satırın altına boş satır ekler.
-
-- M: seçili hücreyi markdowna çevirir.
-
-- Y: seçili hücreeyi code hücresine çevirir.
-
-- D+D: iki defa D ye basıldığında üzerinde olunan hücre silinir.
-
-- Z: işlemi geri alır.
-
-- Shift + yön tuşları : birden fazla hücre seçmek için.
-
-- Shift + m: seçili hücreleri birleştirir.
+- İçindekiler Bölümü Oluşturmak
+- Tıklanabilir İçindekiler Bölümü Oluşturmak
+- "Variable Explorer" Eklentisi Eklemek
+- Resim ekleme işlemleri ile ilgili detaylı ayarlar
+- Görsellerin kalitesini maksimum yapmak
+- Notebook'un Başlangıç Dizinin Ayarlanması
+- Decimal Ayarlaması (virgülden sonra görüntülenecek rakam miktarı)
 
 
-## 2. Markdown Özellikleri
 
-Notebook'un markdown özelliklerini kullanarak yazılan yazılar aşağıdaki bazı özellikler ile biçimlendirilebilir.
+Tüm içeriğe Github üzerinden erişmek ve incelemek için aşağıdaki görselde işaretlenen "effective_jupyterlab.ipynb" dosyasını çalıştırınız:
 
-* Normal bir yazı.
-
-* Bu **kalın yazıdır**
-
-* Bu _italik_ yazıdır.
-
-Listeleme:
-
-* Eleman1
-* Eleman2
- * Bu da alt eleman
- * Bu da ikinci alt eleman
-
-Numara ile Listeleme:
-
-1. Numaralı liste
-2. Numaralı liste
+![Start](start.png)
 
 
-* Link Eklemek: [tıkla](https://www.veribilimi.co)
+## Kendi Bilgisayarınıza İndirip Kullanmak için
 
-* Kod ifade etmek için: `sum()`
+1. Bu çalışma dosyasında yer alan bilgileri doğru bir şekilde uygulayabilmek için aşağıdaki işaretli yerden bu repoyu (effective_jupyterlab) bilgisayarınıza indiriniz:
 
-* Kod bloğu ya da girintili ifade için:
+![Download](download.png)
 
-```
-mean()
 
-```
+2. İndirmiş olduğunuz dosyayı zipten çıkarınız ve JupyterLab'ı açınız. 
 
-* Aynı işlemi 4 boşluk ile de ifade edebiliriz:
+3. Sonrasında JupyterLab üzerinden indirmiş olduğunuz dosyanın dizinine giderek "effective_jupyterlab.ipynb" dosyasını açınız. 
 
-    foo()
+4. Açma işleminden sonra tüm markdown kodlarını ve diğer kodları daha kolay bir şekilde uygulayabileceksiniz.
+
