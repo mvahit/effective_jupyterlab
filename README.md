@@ -7,17 +7,20 @@ Merhabalar, bu notlar JupyterLab kullanımına yeni başlayanlar için önemli o
 Birçok konu ele alınmıştır ve denk geldikçe eklenmektedir. Ele alınan konulardan önemli ve öne çıkanlar:
 
 - İçindekiler Bölümü Oluşturmak
+- Tıklanabilir İçindekiler Bölümü Oluşturmak
 - "Variable Explorer" Eklentisi Eklemek
+- Resim ekleme işlemleri ile ilgili detaylı ayarlar
+- Görsellerin kalitesini maksimum yapmak
 - Notebook'un Başlangıç Dizinin Ayarlanması
 - Decimal Ayarlaması (virgülden sonra görüntülenecek rakam miktarı)
-- Görsellerin kalitesini maksimum yapmak
-- Resim ekleme, ortalama gibi ayarlar
+
 
 
 Tüm içeriğe Github üzerinden erişmek ve incelemek için aşağıdaki görselde işaretlenen "effective_jupyterlab.ipynb" dosyasını çalıştırınız:
 
 ![Start](start.png)
 
+Önemli not: Bazı kodlar Github'a atıldığında derlendiği için en verimli şekilde gözlemlemek adına bilgisayarınıza indirerek inclenemesini öneririm.
 
 ## Kendi Bilgisayarınıza İndirip Kullanmak için
 
